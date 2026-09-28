@@ -8,7 +8,7 @@
 
 ## 🛠️ Technologies & Skills
 
-### 💪 Comfortable with
+### 📚 Current skills
 - Python
 - HTML
 - CSS
