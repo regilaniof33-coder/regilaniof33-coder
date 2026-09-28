@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi! I'm Regilânio 👋
 
-<!--
-**regilaniof33-coder/regilaniof33-coder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Systems Analysis and Development student at IFCE.
 
-Here are some ideas to get you started:
+💻 Currently studying software development, with a focus on Python and web development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Looking for my first opportunity as a developer intern.
+
+## 🛠️ Technologies & Skills
+
+### 💪 Comfortable with
+- Python
+- HTML
+- CSS
+
+### 📚 Currently learning
+- Java
+- SQL
+- PostgreSQL
+- Git & GitHub
+- Backend Development
+- APIs
+
+## 📚 Currently studying
+
+- Backend Development
+- APIs
+- POO
+- Web Development
